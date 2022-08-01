@@ -1,6 +1,6 @@
 ## Olá, eu sou Hiderlan Santana!
 
-<div align="left">
+<div align="left" display: inline-block>
   <a href="https://github.com/devhiderlan"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devhiderlan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhiderlan&layout=compact&langs_count=7&theme=dark"/>
