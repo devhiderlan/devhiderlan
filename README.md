@@ -8,7 +8,7 @@
 
 <div align="center" width ="160em" height="160em">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devhiderlan&theme=dark)](https://git.io/devhiderlan)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devhiderlan&theme=dark)](https://github.com/devhiderlan)
   
 </div>
 
