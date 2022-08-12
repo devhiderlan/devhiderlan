@@ -1,9 +1,15 @@
 ## Olá, eu sou Hiderlan Santana!
 
-<div align="left" display>
+<div align="center" display>
   <a href="https://github.com/devhiderlan"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devhiderlan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhiderlan&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center" width ="160em" height="160em">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devhiderlan&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 
 
