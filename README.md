@@ -14,30 +14,19 @@
 
 
  <h3 align="center" >Linguagens que uso para desenvolver!</3><br>
-
   
-<div align="center" style="display: inline_block"><br>
-    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-       <img align="center" alt="Caroline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-<!--     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  </a> -->
-  <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </a>
-<!--     <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-Tail-wind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-     </a> -->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"      </a>
-      
- </div>
+<div style="display: inline-block"  align="center"> <br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >     
+ </div>  
   
   ##
  
